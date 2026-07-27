@@ -8,10 +8,10 @@ public class Investigacion {
         //
         //Su principal diferencia con el ciclo while es que el while primero verifica la condición y luego ejecuta el código, mientras que el do-while primero ejecuta el código y después verifica si debe volver a repetirlo.
 
-        do {
+        //do {
 
             // Instrucciones
 
-        } while (condicion);
+        //} while (condicion);
     }
 }
